@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Hotel App</string>
+    <string name="signup">SignUP</string>
+    <string name="signin">SignIN</string>
+</resources>
